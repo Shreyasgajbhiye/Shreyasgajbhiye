@@ -96,7 +96,6 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Shreyash" />
  </a> 
 </p>
-<br/>
 <hr/>
 <p align="center">
   <a href="https://github.com/Shreyasgajbhiye">
