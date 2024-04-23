@@ -33,7 +33,6 @@
     <br>
     「 I am a FLutter App developer from <b>India</b> 」
     <br>
-    <br>
   </samp>
 </p>
 
