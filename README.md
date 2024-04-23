@@ -80,6 +80,14 @@
 
 <br/>
 
+
+
+<p align="left">
+  <a href="https://github.com/Shreyasgajbhiye?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+<br/>
+<hr/>
 <p align="center">
  <a href="" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Shreyash" />
@@ -94,13 +102,6 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Shreyash" />
  </a> 
 </p>
-<br/>
-<p align="left">
-  <a href="https://github.com/Shreyasgajbhiye?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
 <br/>
 
 <p align="center">
