@@ -58,10 +58,10 @@
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: gajbhiyeshreyash2004@gmail.com<br/><br/>
+  💻  &emsp; I also possess a strong proficiency in web development.<br/><br/>
+  🤖 &emsp; Enjoy to do programming and sharing knowledge. <br/><br/>
+  ❤️ &emsp I love writing code and learning new features.<br/><br/>
+  📧 &emsp; Reach me anytime: gajbhiyeshreyash2004@gmail.com<br/><br/>
 
 </p>
 
