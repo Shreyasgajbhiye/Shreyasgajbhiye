@@ -37,20 +37,7 @@
   </samp>
 </p>
 
-<p align="center">
- <a href="" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Shreyash" />
- </a>
- <a href="https://www.linkedin.com/in/shreyashgajbhiye" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shreyash"/>
- </a>
- <!-- <a href="https://dev.to/alsiam" target="_blank">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- </a> -->
- <a href="https://www.instagram.com/shreyxsh.h/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Shreyash" />
- </a> 
-</p>
+
 <br />
 
 <!-- About Section -->
@@ -93,7 +80,21 @@
 
 <br/>
 
-
+<p align="center">
+ <a href="" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Shreyash" />
+ </a>
+ <a href="https://www.linkedin.com/in/shreyashgajbhiye" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shreyash"/>
+ </a>
+ <!-- <a href="https://dev.to/alsiam" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
+ </a> -->
+ <a href="https://www.instagram.com/shreyxsh.h/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Shreyash" />
+ </a> 
+</p>
+<br/>
 <p align="left">
   <a href="https://github.com/Shreyasgajbhiye?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
