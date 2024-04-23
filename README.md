@@ -31,7 +31,7 @@
   <samp>
 <!--     <a href="">「 Google Me 」</a> -->
     <br>
-    「 I am a FLutter App developer from <b>India</b> 」
+    「 I am a Flutter App developer from <b>India</b> 」
     <br>
   </samp>
 </p>
@@ -51,7 +51,6 @@
 
 </p>
 
-<br/>
 <br/>
 
 ## Use To Code
