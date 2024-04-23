@@ -35,10 +35,7 @@
     <br>
   </samp>
 </p>
-
-
-<br />
-
+<hr/>
 <!-- About Section -->
  # About me
  
