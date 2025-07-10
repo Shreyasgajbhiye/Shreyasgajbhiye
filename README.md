@@ -162,10 +162,6 @@ quick_facts:
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Shreyasgajbhiye&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
-</div>
-
-<div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
@@ -277,7 +273,7 @@ shreyash@dev:~$ flutter pub add quicklit
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1E1E,100:007ACC&height=150&section=footer&text=THANKS%20FOR%20VISITING!&fontSize=24&fontColor=D4D4D4&animation=fadeIn&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together!%20🚀&descAlignY=51&descAlign=50&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1E1E,100:007ACC&height=175&section=footer&text=THANKS%20FOR%20VISITING!&fontSize=24&fontColor=D4D4D4&animation=fadeIn&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together!%20🚀&descAlignY=51&descAlign=50&descSize=16"/>
 </div>
 
 <div align="center">
